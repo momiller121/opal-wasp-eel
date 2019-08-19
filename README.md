@@ -15,5 +15,5 @@ open http://localhost:3000/?name=Steve
 ```
 
 ```bash
-open http://localhost:3000/documentation
+open http://localhost:3000/documentation ; open http://localhost:3000/swagger.json
 ```
