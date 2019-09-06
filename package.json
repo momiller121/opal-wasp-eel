@@ -23,12 +23,13 @@
     "@hapi/vision": "^5.5.3",
     "hapi-pino": "^6.0.2",
     "hapi-swagger": "^10.0.2",
+    "moment": "^2.24.0",
     "pino": "^5.13.2"
   },
   "devDependencies": {
-    "@hapi/code": "^5.3.1",
+    "@hapi/code": "^6.0.0",
     "@hapi/eslint-config-hapi": "^12.1.0",
-    "@hapi/lab": "^19.1.0",
+    "@hapi/lab": "^20.1.0",
     "cucumber": "^5.1.0"
   }
 }

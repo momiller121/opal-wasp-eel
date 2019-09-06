@@ -1,0 +1,15 @@
+/pricing/filtered/YYC/YYZ/2019-09-15/2019-09-30/100/700/2019-09-25
+
+/pricing/filtered/YYC/YYZ/2019-09-15/2019-09-30/100/700/2019-09-25,2019-09-26
+
+/pricing/filtered/YYC/YYZ/2019-09-15/2019-09-30/100/700/2019-09-25 to 2019-09-28,2019-09-29
+
+/pricing/filtered/YYC/YYZ/2019-09-15/2019-09-30/100/700/TUE,THU
+
+/pricing/filtered/YYC/YYZ/2019-09-15/2019-09-30/100/700/
+
+/pricing/{fareclass}/filtered/YYC/YYZ/2019-09-15/2019-09-30/100/700/
+
+Rolling range  - next 15 days
+
+Batching
